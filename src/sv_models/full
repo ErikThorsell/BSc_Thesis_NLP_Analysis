@@ -1,0 +1,9 @@
+java \
+-cp ../CoreNLP/stanford-corenlp-full-2015-12-09/"*" \
+-Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP \
+-annotators tokenize,ssplit,pos,depparse \
+-pos.model swedishtest.tagger \
+-depparse.model nndep.model.txt.gz \
+-filelist <listofcalls.txt> \
+-outputDirectory <path to output dir>
+

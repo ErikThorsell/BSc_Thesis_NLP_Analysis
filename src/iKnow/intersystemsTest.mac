@@ -1,0 +1,16 @@
+ROUTINE intersystemsTest
+#Include %IKPublic
+	// Domain Id
+	SET domId = 2
+	
+	// First source id
+	SET id = 1
+	// Last source id
+	SET maxSource = 67
+	WHILE (id < (maxSource+1)) {
+		WRITE id, !
+		DO ##class(%iKnow.Queries.SourceAPI).GetSimilar(.sim,domId,id,1,100,"",$$$SIMSRCSIMPLE,$LB("ent"))
+		zw sim
+		SET id = id + 1
+	}
+    	      

@@ -1,0 +1,2552 @@
+﻿Kolera
+Salmonellainfektion
+Salmonellaenterit
+Salmonellos
+Shigellainfektion
+Bakteriell dysenteri
+Rödsot
+Campylobacterenterit
+Yersiniaenterit
+Clostridium difficile-enterokolit
+Botulism
+Amöbainfektion
+Amoebiasis
+Giardiainfektion
+Giardiasis
+Infektiös diarré
+Enterokolit
+Infektiös gastroenterit
+Matförgiftning
+Tarminfektion
+Tuberkulos
+TB
+TBC
+Tularemi
+Harpest
+Djurburen bakteriesjukdom
+Erysipeloid
+Lepra
+Spetälska
+Atypisk mykobakteriell infektion
+Infektion med atypiska mykobakterier
+Listeriainfektion
+Listerios
+Tetanus
+Stelkramp
+Difteri
+Pertussis
+Kikhosta
+Scarlatina
+Scharlakansfeber
+Meningokockinfektion
+Sepsis
+Blodförgiftning
+Septikemi
+Septisk chock
+Erysipelas
+Rosfeber
+Legionellainfektion
+Legionärsjuka
+Toxiskt chocksyndrom
+TSS
+Toxic shock syndrome
+Bakteriesjukdom ospecificerad
+Bakteremi
+Bakterieinfektion olokaliserad
+Syfilis
+Lues
+Gonokockinfektion
+Gonorré
+Klamydiainfektion
+Trikomonasinfektion
+Trikomonaskolpit
+Genital herpes
+Kondylom
+Condyloma acuminatum
+Sexuellt överförd sjukdom
+STD
+Vincents angina
+Borreliainfektion
+Borrelios
+Erythema chronicum migrans
+Spiroketinfektion
+Papegojsjuka
+Ornitos
+Psittakos
+Rickettsiainfektion
+Polio
+Barnförlamning
+Poliomyelit
+Virusmeningit
+Fästingburen virusencefalit
+Rabies
+TBE (Tick-borne encephalitis)
+Virusencefalit
+Virusinfektion i CNS
+Virusmeningoencefalit
+Ockelbosjuka
+Nephropathia epidemica
+Sorkfeber
+Artropodburen febersjukdom
+Hemorragisk feber
+Herpesstomatit
+Herpes simplex-faryngit
+Munsår
+Herpes simplex-infektion
+Herpesinfektion
+Varicellae
+Vattenkoppor
+Vattkoppor
+Herpes zoster
+Bältros
+Zoster
+Morbilli
+Mässling
+Rubella
+Röda hund
+Verruca vulgaris
+Vårta
+Molluscum contagiosum
+Mollusker
+Exanthema subitum
+Tredagarsfeber
+Erythema infectiosum
+Femte sjukan
+Höstblåsor
+Hand, foot and mouth disease
+Virusexantem
+Virusenantem
+Virushepatit
+Hepatit A
+Hepatit B
+Hepatit C
+Hepatit D
+HIV-infektion
+AIDS
+ARC
+Sjukdom orsakad av HIV
+CMV-infektion
+Cytomegalvirusinfektion
+Parotit
+Påssjuka
+Mononukleos
+Infektiös mononukleos
+Körtelfeber
+Bornholmssjuka
+Epidemisk myalgi
+Pleurodyni
+Virusinfektion
+Viros
+Nagelsvamp
+Nagelmykos
+Onykomykos
+Fotsvamp
+Fotmykos
+Tinea pedis
+Dermatofytos
+Hudsvamp
+Ringorm
+Tinea
+Pityriasis versicolor
+Urogenital candidainfektion
+Candidavaginit
+Candidainfektion
+Torsk
+Mykos, ospecificerad
+Svampinfektion, ospecificerad
+Malaria
+Toxoplasmos
+Toxoplasmainfektion
+Protozosjukdom
+Simmarklåda
+Cercariadermatit
+Bandmask
+Binnikemask
+Spolmask
+Ascaridiasis
+Askaridos
+Springmask
+Enterobiasis
+Oxyuriasis
+Trådmaskinfektion
+Masksjukdom
+Mask
+Pedikulos
+Löss
+Scabies
+Skabb
+Infestation
+Sen effekt av polio
+Sen effekt av infektionssjukdom
+Sen effekt av tuberkulos
+Infektionssjukdom
+Läppcancer
+Malign läpptumör
+Spottkörtelcancer
+Munhålecancer
+Malign tumör i munnen
+Muncancer
+Matstrupscancer
+Esofaguscancer
+Magsäckscancer
+Ventrikelcancer
+Tunntarmscancer
+Tjocktarmscancer
+Grovtarmscancer
+Koloncancer
+Ändtarmscancer
+Rektalcancer
+Stolgångscancer
+Levercancer
+Hepatom
+Levercellscancer
+Primär levercancer
+Gallblåsecancer
+Pankreascancer
+Cancer i bukspottkörteln
+Malign tumör i bukspottkörteln
+Cancer i matsmältningsorganen
+Malign tumör i matsmältningsorganen
+Larynxcancer
+Malign tumör i struphuvudet
+Strupcancer
+Stämbandscancer
+Lungcancer
+Bronkialcancer
+Cancer i nedre luftvägarna
+Malign tumör i lunga
+Cancer i brösthåleorgan
+Cancer i andningsvägarna
+Malign tumör i andningsvägarna
+Malign tumör i brösthålans organ
+Skelettcancer
+Bencancer
+Malign skelettumör
+Malignt melanom
+Hudcancer
+Basalcellscancer
+Basaliom
+Malign hudtumör
+Bindvävscancer
+Kaposis sarkom
+Malign mjukdelstumör
+Mesoteliom
+Bröstcancer
+Mammarcancer
+Vulvacancer
+Livmoderhalscancer
+Cervixcancer
+Livmodercancer
+Endometriecancer
+Korpuscancer
+Uteruscancer
+Äggstockscancer
+Ovarialcancer
+Ovariecancer
+Cancer i kvinnliga könsorgan
+Peniscancer
+Prostatacancer
+Cancer i blåshalskörteln
+Testikelcancer
+Testiscancer
+Cancer i manliga könsorgan
+Njurcancer
+Hypernefrom
+Urinblåsecancer
+Malign tumör i urinorgan
+Uroepitelial cancer
+Cancer i ögat
+Malign tumör i ögat
+Retinoblastom
+Cancer i centrala nervsystemet
+Hjärntumör
+Malign tumör i centrala nervsystemet
+Tyreoideacancer
+Sköldkörtelcancer
+Cancer i endokrina körtlar
+Endokrin cancer
+Metastas
+Metastas från okänd primärtumör
+Sekundär malign tumör
+Cancer, ospecificerad
+Malign kakexi
+Malign tumör
+Malignt lymfom
+Hodgkins sjukdom
+Mycosis fungoides
+Non-Hodgkin-lymfom
+Immunoproliferativ sjukdom
+Waldenströms makroglobulinemi
+Myelom
+Malign plasmacellstumör
+Myelomatos
+Plasmacellsleukemi
+Lymfatisk leukemi
+Akut lymfatisk leukemi
+Kronisk lymfatisk leukemi
+Myeloisk leukemi
+Akut myeloisk leukemi
+Kronisk myeloisk leukemi
+Malign blodsjukdom
+Andra leukemier med icke specificerad celltyp
+Leukemi, ospecificerad
+Monocytleukemi
+Cervixcancer in situ
+Cancer in situ i livmoderhalsen
+Cancer in situ
+Benign tumör i munnen
+Benign spottkörteltumör
+Benign tumör i tjocktarm
+Benign tumör i anus
+Benign tumör i ändtarm
+Hereditär polypos i kolon
+Benign tumör i matsmältningsorganen
+Benign tumör i andningsorgan
+Benign tumör i brösthåleorgan
+Benign tumör i skelettet
+Lipom
+Fettsvulst
+Hemangiom
+Blodkärlssvulst
+Lymfangiom
+Lymfkärlssvulst
+Benign bindvävstumör
+Benign mjukvävnadstumör
+Benign tumör i bindvävnad
+Nevus
+Blått nevus
+Hårigt nevus
+Melanocytnevus
+Pigmentnevus
+Benign hudtumör
+Benign svettkörteltumör
+Benign talgkörteltumör
+Benign bröstkörteltumör
+Uterusmyom
+Fibromyom i uterus
+Muskelsvulst i livmodern
+Myom
+Benign äggstockstumör
+Benign ovarialtumör
+Benign tumör i kvinnliga könsorgan
+Benign tumör i manliga könsorgan
+Benign tumör i urinorgan
+Benign tumör i ögat
+Benign tumör i centrala nervsystemet
+Meningeom
+Benign sköldkörteltumör
+Benign tyreoideatumör
+Benign tumör i endokrin körtel
+Benign tumör, ospecificerad
+Tumör
+Oklar tumör i matsmältningskanalen
+Oklar tumör i andningsorganen
+Oklar tumör i kvinnliga könsorgan
+Oklar tumör i manliga könsorgan
+Oklar tumör i urinorganen
+Oklar tumör i centrala nervsystemet
+Oklar tumör i endokrina körtlar
+Polycythaemia vera
+Myelodysplasi
+Benign monoklonal gammopati
+Essentiell trombocytopeni
+Lymfoproliferativ sjukdom
+Myelodysplastiskt syndrom
+Myeloproliferativ sjukdom
+Oklar tumör
+Svulst
+Järnbristanemi
+Blödningsanemi
+Perniciös anemi
+Folatbristanemi
+Nutritionell megaloblastanemi
+Hereditär hemolytisk anemi
+Hemoglobinopati
+Sicklecellssjukdom
+Talassemi
+Ärftlig hemolytisk anemi
+Förvärvad hemolytisk anemi
+Idiopatisk hemolytisk anemi
+Läkemedelsutlöst hemolytisk anemi
+Annan anemi
+Anemi efter akut större blödning
+Anemi vid kronisk sjukdom
+Anemi vid tumörsjukdom
+Aplastisk anemi
+Blodbrist
+Nutritionsanemi
+Koagulationsrubbning
+Blödarsjuka
+Förvärvad K-vitaminbrist
+Hemofili
+Purpura
+Blödningsbenägenhet
+Henoch-Schönleins purpura
+Kapillärskörhet
+Senil purpura
+Benign polycytemi
+Familjär erytrocytos
+Familjär polycytemi
+Sekundär polycytemi
+Annan sjukdom i blod och blodbildande organ
+Agranulocytos
+Basofili
+Eosinofili
+Leukocytos
+Sjukdomar i mjälten
+Immunbristsjukdom
+Rubbningar i immunförsvaret
+Sarkoidos
+Morbus Schaumann
+Jodbristsjukdom i sköldkörteln
+Endemisk kretinism
+Endemisk struma
+Medfött jodbristsyndrom
+Subklinisk jodbristhypotyreos
+Hypotyreos
+Hypotyreos orsakad av läkemedel
+Myxödem
+Postinfektiös hypotyreos
+Struma
+Atoxisk diffus struma
+Sköldkörtelförstoring
+Hypertyreos
+Graves sjukdom
+Toxisk nodulär struma
+Tyreotoxikos
+Tyreoidit
+Autoimmun tyreoidit
+Kronisk tyreoidit
+Läkemedelsutlöst tyreoidit
+Sköldkörtelinflammation
+de Quervains tyreoidit
+Tyreoideasjukdom
+Diabetes mellitus typ 1, med komplikationer
+Diabetes typ 1, med komplikationer
+Insulin-dependent diabetes mellitus (IDDM), med komplikationer
+Diabetes mellitus typ 1, utan komplikationer
+Diabetes typ 1, utan komplikationer
+Insulin-dependent diabetes mellitus (IDDM), utan komplikationer
+Diabetes mellitus typ 2,  med komplikationer
+Diabetes typ 2, med komplikationer
+Non-insulin-dependent diabetes mellitus (NIDDM), med komplikationer
+Diabetes mellitus typ 2,  utan komplikationer
+Diabetes typ 2, utan komplikationer
+Non-insulin-dependent diabetes mellitus (NIDDM), utan komplikationer
+Diabetes mellitus, ospecificerad
+Endokrin pankreasrubbning
+Hyperinsulinism
+Hypoglykemi
+Bisköldkörtelsjukdom
+Hyperparatyreoidism
+Hypoparatyreoidism
+Hypofyssjukdom
+Diabetes insipidus
+Hypofysrubbning
+Underfunktion av hypofysen
+Överfunktion av hypofysen
+Binjurebarksinsufficiens
+Addisons sjukdom
+Binjuresjukdom
+Adenogenitala rubbningar
+Cushings syndrom
+Hyperaldosteronism
+Ovariell dysfunktion
+Polycystiska ovarier
+Testikulär dysfunktion
+Störd pubertetsutveckling
+För tidig pubertet
+Försenad pubertet
+Endokrin rubbning
+Näringsbrist
+Malnutrition
+Vitaminbrist
+Obesitas
+Adipositas
+Fetma
+Övernäring
+Övervikt
+Laktosintolerans
+Laktasbrist
+Mjölksockerintolerans
+Lipidrubbning
+Blodfettrubbning
+Hyperkolesterolemi
+Hypertriglyceridemi
+Hyperurikemi
+Asymtomatisk hyperurikemi
+Porfyri
+Cystisk fibros
+Amyloidos
+Ämnesomsättningssjukdom
+Postoperativ hypotyreos
+Hypotyreoidism efter strålning
+Vaskulär demens
+Arteriosklerotisk demens
+Multiinfarktdemens
+Demens
+Demens, ospecificerad
+Presenil demens
+Presenil psykos
+Senil demens
+Senil psykos
+Organisk psykisk störning
+Organisk psykos
+Symtomatisk psykos
+Alkoholintoxikation
+Skadligt bruk av alkohol
+Alkoholberoende
+Kronisk alkoholism
+Alkoholabstinens
+Alkoholpsykos
+Delirium tremens
+Alkoholproblem
+Skadligt bruk av tobak
+Nikotinism
+Tobaksberoende
+Drogberoende
+Drogmissbruk
+Läkemedelsberoende
+Narkomani
+Schizofreni
+Schizotyp störning
+Borderline schizofreni
+Paranoid psykos
+Psykos
+Cykloid psykos
+Reaktiv psykos
+Manisk episod
+Hypomani
+Mani
+Bipolär sjukdom
+Manodepressiv sjukdom
+Depressiv episod
+Depression
+Psykogen depression
+Reaktiv depression
+Recidiverande depression
+Förstämningssyndrom
+Depressiv neuros
+Neurotisk depression
+Fobi
+Fobiskt syndrom
+Paniksyndrom
+Panikattack
+Paniktillstånd
+Generaliserat ångestsyndrom
+Ångestneuros
+Ångesttillstånd
+Ångest
+Tvångssyndrom
+Tvångshandlingar
+Tvångstankar
+Posttraumatiskt stressyndrom
+Utmattningssyndrom
+Stressreaktion
+Krisreaktion
+Sorgereaktion
+Dissociativt syndrom
+Hysteri
+Konversionshysteri
+Somatoformt smärttillstånd
+Psykalgia
+Psykogen huvudvärk
+Psykogen ryggvärk
+Somatoformt syndrom
+Hypokondri
+Psykosomatisk sjukdom
+Somatiseringssyndrom
+Neuros
+Neurasteni
+Psykasteni
+Anorexia nervosa
+Självsvält
+Bulimi
+Hetsätning
+Ätstörning
+Sömnstörning
+Mardrömmar
+Nattskräck
+Sömngång
+Sexuell dysfunktion
+Frigiditet
+Psykogen anorgasmi
+Psykogen dyspareuni
+Psykogen vaginism
+Post partum-depression
+Puerperal psykos
+Läkemedelsmissbruk
+Missbruk av ej beroendeframkallande substanser
+Psykogen fysiologisk dysfunktion
+Personlighetsstörning hos vuxen
+Psykisk utvecklingsstörning
+Psykologisk utvecklingsstörning
+Autism
+Hyperaktivitetsstörning
+Tics
+Icke organisk enures
+Funktionell enures
+Psykogen enures
+Matvägran under uppväxten
+Matvägran hos barn
+Psykisk störning under uppväxten
+Psykisk sjukdom
+Meningit
+Hjärnhinneinflammation
+Encefalomyelit
+Hjärninflammation
+Meningoencefalit
+Myelit
+Amyotrofisk lateralskleros
+ALS
+Parkinsons sjukdom
+Morbus Parkinson
+Paralysis agitans
+Essentiell tremor
+Familjär tremor
+Restless legs
+Myrkrypningar i benen
+Rastlösa ben
+Rörelserubbning
+Dystoni
+Intentionstremor
+Läkemedelsutlöst parkinsonism
+Läkemedelsutlöst tremor
+Malignt neuroleptikasyndrom
+Myoklonus
+Sekundär parkinsonism
+Alzheimers sjukdom
+Multipel skleros
+MS
+Sclerosis disseminata
+Epilepsi
+Status epilepticus
+Migrän
+Hemicrania
+Migrän med aura (klassisk)
+Migrän utan aura (vanlig)
+Migränekvivalent
+Hortons syndrom
+Cluster headache
+Hortons huvudvärk
+Klusterhuvudvärk
+Spänningshuvudvärk
+Huvudvärkssyndrom
+Kronisk posttraumatisk huvudvärk
+Läkemedelsutlöst huvudvärk
+Vaskulär huvudvärk
+Transitorisk ischemisk attack
+Amaurosis fugax
+TIA
+Transitorisk global amnesi
+Övergående cerebral ischemi
+Organisk sömnstörning
+Kataplexi
+Narkolepsi
+Sömnapné
+Trigeminusneuralgi
+Bells pares
+Perifer ansiktsförlamning
+Perifer facialispares
+Toraxapertursyndrom
+Sjukdom i brakialplexus
+TOS
+Fantomsmärta
+Fantom-extremitetssyndrom
+Sjukdom i nerv, nervrot
+Melkersson-Rosenthals syndrom
+Melkerssons syndrom
+Karpaltunnelsyndrom
+Peroneuspares
+Betplockarsjuka
+Mononeuropati
+Meralgia parestetica
+Mortons metatarsalgi
+Guillain-Barrés syndrom
+Akut inflammatorisk poly(radikulo)neuropati
+Alkoholpolyneuropati
+Polyneuropati
+Idiopatisk neuropati
+Läkemedelsutlöst polyneuropati
+Ärftlig neuropati
+Myasthenia gravis
+Muskelsjukdom
+Muskeldystrofi
+Myopati
+Cerebral pares
+CP
+Hemipares
+Ensidig förlamning
+Hemiplegi
+Pares
+Cauda equina-syndrom
+Förlamning
+Monopares
+Parapares
+Tetraplegi
+Hydrocefalus
+Normaltryckshydrocefalus
+Vattenskalle
+Trötthetssyndrom efter virusinfektion
+Benign myalgisk encefalomyelit
+Kroniskt trötthetssyndrom
+Neurologisk sjukdom
+Alkoholutlöst encefalopati
+Blefarospasm
+Hereditär ataxi
+Horners syndrom
+Intrakraniell abscess
+Korea Huntington
+Neurogen ortostatisk hypotension
+Spinal muskelatrofi
+Vagel
+Chalazion
+Hordeolum
+Blefarit
+Ögonlocksinflammation
+Entropion
+Trikiasis
+Ektropion
+Ptos
+Xantelasm på ögonlock
+"Torra ögon"-syndromet
+Tårkörtelsjukdom
+Dakryocystit
+Tårsäcksinflammation
+Varig konjunktivit
+Varig bindehinnekatarr
+Allergisk konjunktivit
+Kronisk konjunktivit
+Kronisk bindehinnekatarr
+Konjunktivit
+Bindehinnekatarr
+Pterygium
+Subkonjunktival blödning
+Hyposfagma
+Sklerit
+Episklerit
+Sjukdom i sklera
+Hornhinneinflammation
+Fotokeratit
+Keratit
+Kornealsår
+Snöblindhet
+Svetsblindhet
+Irit
+Regnbågshinneinflammation
+Katarakt
+Grå starr
+Näthinneavlossning
+Ablatio retinae
+Amotio retinae
+Retinalkärlsocklusion
+Centralartärocklusion i ögat
+Retinalvensocklusion
+Hypertensiv retinopati
+Fundus hypertonicus
+Makuladegeneration
+Glaukom
+Glaukom med sluten kammarvinkel
+Glaukom med öppen kammarvinkel
+Grön starr
+Okulär hypertension
+Glaskroppsgrumling
+Optikusneurit
+Synnervsinflammation
+Ögonmuskelförlamning
+Abducenspares
+Okulomotoriuspares
+Skelning
+Heterofori
+Inåtskelning
+Latent skelning
+Strabism
+Utåtskelning
+Presbyopi
+Ålderssynthet
+Brytningsfel
+Ackomodationspares
+Astigmatism
+Närsynthet
+Översynthet
+Dubbelseende
+Diplopi
+Färgsinnesdefekt
+Färgblindhet
+Synrubbning
+Astenopi
+Fotofobi
+Halofenomen öga
+Nattblindhet
+Skotom
+Synnedsättning
+Amauros
+Amblyopi
+Bilateral blindhet
+Blindhet
+Unilateral blindhet
+Nystagmus
+Ögonsmärta
+Ögonsjukdom
+Extern otit
+Hörselgångsinflammation
+Infektion i ytterörat
+Otitis externa
+Vaxpropp
+Cerumen obturans
+Sekretorisk otit
+Glue ear
+Icke varig mellanöreinflammation
+Kronisk mukös otit
+Kronisk serös otit
+Mukös otit
+Otitis serosa
+Otosalpingit
+Serös otitis media
+Akut mediaotit
+Akut suppurativ mediaotit
+Akut varig mediaotit
+Akut varig mellanöreinflammation
+Kronisk mediaotit
+Kronisk otit med perforation
+Kronisk otitis media
+Kronisk varig mellanöreinflammation
+Mellanöreinflammation, ej specificerad
+Otitis media UNS
+Mastoidit
+Trumhinneperforation
+Posttraumatisk trumhinneperforation
+Trumhinneperforation efter inflammation
+Akut myringit
+Bullös myringit
+Otoskleros
+Ménières sjukdom
+Endolymfatisk hydrops
+Ménières syndrom
+Benign paroxysmal yrsel
+Benign lägesyrsel
+Vestibularisneurit
+Inflammation i hörselnerven
+Vestibularisneuronit
+Central yrsel
+Bullerskada
+Akustiskt trauma
+Hörselskada av buller
+Åldersbetingad hörselnedsättning
+Presbyakusi
+Hörselnedsättning
+Dålig hörsel
+Dövhet
+Dövstumhet
+Nedsatt hörsel
+Ototoxisk hörselnedsättning
+Sensineural hörselnedsättning
+Sudden Deafness
+Surditas
+Öronvärk
+Otalgi
+Öronflytning
+Sekretion ur öra
+Tinnitus
+Öronsusning
+Öronsjukdom
+Öronsjukdom efter ingrepp
+Hypertoni
+Essentiell hypertoni
+Högt blodtryck
+Primär hypertoni
+Hypertoni med organsjukdom
+Hypertoni med hjärt- och njursjukdom
+Hypertoni med hjärtsjukdom
+Hypertoni med njursjukdom
+Sekundär hypertoni
+Hypertoni sekundär till endokrin sjukdom
+Renovaskulär hypertoni
+Instabil angina pectoris
+Preinfarktsyndrom
+Angina pectoris
+Ischemiska bröstsmärtor
+Kärlkramp
+Hjärtinfarkt
+Akuta komplikationer till hjärtinfarkt
+Hjärtinfarkt inom 4 veckor (28 dagar) från symtomdebuten
+Infarctus myocardii acutus
+Reinfarkt
+Ischemisk hjärtsjukdom
+Gammal hjärtinfarkt
+Hjärtaneurysm
+Ischemisk kardiomyopati
+Koronarartäraneurysm
+PMI syndrom
+Postinfarktsyndrom
+Tyst myokardischemi
+Lungemboli
+Embolia pulmonalis
+Pulmonell infarkt
+Pulmonell tromboembolism
+Sjukdom i lungcirkulationen
+Aneurysm i lungartär
+Cor pulmonale
+Kyfoskoliotisk hjärtsjukdom
+Primär pulmonell hypertoni
+Pulmonell hjärtsjukdom
+Akut perikardit
+Akut perikardutgjutning
+Hjärtsäcksinflammation
+Infektiös perikardit
+Sjukdom i perikardiet
+Hjärttamponad
+Kronisk perikardit
+Hjärtklaffsjukdom
+Akut endokardit
+Akut reumatisk feber
+Aortaklaffel
+Kronisk reumatisk hjärtsjukdom
+Mitralisklaffel
+Subakut endokardit
+Akut myokardit
+Infektiös myokardit
+Kardiomyopati
+Alkoholkardiomyopati
+Endokardiell fibroelastos
+Retledningsrubbning
+AV-block
+Adams-Stokes syndrom
+Grenblock
+Hjärtblock
+Pre-excitationssyndrom
+WPW-syndrom
+Hjärtstillestånd
+Hjärtstillestånd med framgångsrik hjärt-lungräddning
+Plötslig hjärtdöd
+Paroxysmal takykardi
+Paroxysmal supraventrikulär takykardi
+Paroxysmal ventrikulär takykardi
+Förmaksflimmer
+Förmaksfladder
+Hjärtarytmi
+Extrasystolier
+Sick sinus syndrome
+Supraventrikulära extraslag [SVES]
+Ventrikelfladder
+Ventrikelflimmer
+Ventrikulära extraslag [VES]
+Hjärtsvikt
+Hjärtastma
+Hjärtinkompensation
+Hjärtinsufficiens
+Kronisk hjärtinsufficiens
+Hjärtsjukdom
+Akut kardit
+Degenerativ hjärtmuskelsjukdom
+Förvärvad septumdefekt i hjärtat
+Hjärtförstoring
+Kronisk kardit
+Kronisk myokardit
+Subaraknoidalblödning
+Rupturerat cerebralt aneurysm
+Hjärnblödning
+Haemorrhagia cerebri
+Icke traumatisk extradural blödning
+Icke traumatisk subdural blödning (akut)
+Intracerebral blödning
+Hjärninfarkt
+Cerebral infarkt
+Akut cerebral insult
+Apoplexi
+Stroke
+Cerebrovaskulär sjukdom
+Cerebral ateroskleros
+Cerebral ischemi
+Cerebralt aneurysm, icke brustet
+Hypertensiv encefalopati
+Ocklusion och stenos av cerebral artär
+Sjukdom i cerebrala kärl
+Funktionsnedsättning efter cerebrovaskulär sjukdom
+Sen effekt av cerebrovaskulär sjukdom
+Ateroskleros
+Ateroskleros i aorta
+Ateroskleros i njurartär
+Aortaaneurysm
+Artäraneurysm
+Artärbråck
+Raynauds syndrom
+Raynauds fenomen
+Raynauds sjukdom
+Perifer vaskulär sjukdom
+Artärspasm
+Ateroskleros i extremitetsartärer
+Aterosklerotiskt gangrän
+Claudicatio intermittens
+Thromboangiitis obliterans [Bürger]
+Artäremboli
+Emboli i artär
+Trombos i artär
+Kärlsjukdom
+Artärsjukdom
+Kapillärsjukdom
+Sjukdom i arterioler
+Tromboflebit i ben
+Inflammation i ytlig ven i ben
+Djup ventrombos i ben
+Flebit och tromboflebit i vena femoralis
+Ventrombos
+Djup ventrombos (utom i ben)
+Tromboflebit
+Tromboembolisk sjukdom
+Emboli och trombos i andra vener
+Tromboflebitis migrans
+Trombos i portavenen
+Venöst bensår
+Varicer med bensår
+Variköst sår
+Ytliga varicer på ben
+Åderbråck på ben
+Esofagusvaricer
+Åderbråck i matstrupen
+Varikocele
+Varicer i scrotum
+Venös insufficiens
+Hypostatiskt eksem
+Posttrombotiskt syndrom
+Stasdermatit
+Vensjukdom
+Lymfkärlssjukdom
+Lymfangiektasier
+Lymfödem
+Hypotoni
+Hypotoni orsakad av läkemedel
+Ortostatisk hypotoni
+Lymfödem efter mastektomi
+Elefantiasis och förträngning av lymfkärl orsakad av mastektomi
+Cirkulationssjukdom efter medicinsk åtgärd
+Sjukdom i cirkulationsorganen
+Akut sinuit
+Bihåleinflammation
+Purulent rinit
+Faryngit
+Halsont
+Streptokockfaryngit
+Tonsillit
+Halsfluss
+Streptokocktonsillit
+Akut laryngit
+Stämbandsinflammation
+Stämbandskatarr
+Pseudokrupp
+Falsk krupp
+Epiglottit
+Struplocksinflammation
+Övre luftvägsinfektion
+Förkylning
+ÖLI
+Influensa A (H1N1)
+Nya influensan A (H1N1)
+Svininfluensa A (H1N1)
+Influensa
+Pneumoni
+Bronkopneumoni
+Lunginflammation
+Primär atypisk pneumoni
+Akut bronkit
+Akut infektion i nedre luftvägarna
+Akut luftrörskatarr
+Vasomotorisk rinit
+Kärlsnuva
+Nästäppa
+Allergisk rinit
+Hösnuva
+Kronisk rinit
+Kronisk faryngit
+Kronisk sinuit
+Näspolyp
+Näsfurunkel
+Septumdeviation
+Sned nässkiljevägg
+Tonsillhypertrofi
+Förstorade tonsiller
+Adenoid
+"Veg ad"
+Adenoid vegetation
+Förstoring av adenoider
+Peritonsillit
+Halsböld
+Peritonsillär abscess
+Kronisk laryngit
+Kronisk laryngotrakeit
+Stämbandspares
+Stämbandsförlamning
+Stämbandspolyp
+Stämbandsknutor
+Kronisk bronkit
+Kronisk luftrörskatarr
+Emfysem
+Lungemfysem
+Kroniskt obstruktiv lungsjukdom med akut exacerbation
+Kroniskt obstruktiv lungsjukdom, ospecificerad
+KOL med akut exacerbation
+KOL
+KOL med akut nedre luftvägsinfektion
+Kronisk astmatisk bronkit
+Kroniskt obstruktiv bronkit
+Astma
+Akut astmaanfall
+Asthma bronchiale
+Astmatisk bronkit
+Status asthmaticus
+Bronkiektasier
+Lokala utvidgningar av luftrören
+Asbestos
+Asbestlunga
+Pneumokonios
+Dammlunga
+Silikos
+Stendammslunga
+Allergisk alveolit
+Hypersensitivitetspneumonit
+Luftvägssjukdom orsakad av organiskt damm
+Interstitiell lungsjukdom
+ARDS
+Chocklunga
+Lungfibros
+Lungsjukdomstillstånd av yttre orsak
+Pleurit
+Lungsäcksinflammation
+Pleuraplack
+Pneumotorax
+Spontanpneumotorax
+Respiratorisk insufficiens
+Andningssvikt
+Respiratorisk insufficiens efter kirurgi
+Sjukdom i andningsorgan
+Karies
+Caries dentium
+Parodontit
+Gingivit
+Tandsjukdom
+Käksjukdom
+Cysta i käke
+Cysta i mun- och käkregionen
+Osteit i mun- och käkregionen
+Spottkörtelsjukdom
+Sialolithiasis
+Spottsten
+Recidiverande afte
+Aftös stomatit
+Stomatitis herpetiformis
+Stomatit
+Abscess i munregionen
+Inflammation i munslemhinnan
+Läpp- och munslemhinnesjukdom
+Gombesvär hos rökare
+Irritationshyperplasi i munslemhinna
+Kind- och läppbitning
+Leukoplaki
+Munvinkelragader
+Tungsjukdom
+Atrofisk glossit
+Glossit
+Hårtunga
+Lingua geographica
+Tungsveda
+Gastroesofagal reflux
+Matstrupssjukdom
+Esofagit
+Esofagusdivertikel
+Esofagussjukdom
+Esofagusstriktur
+Kardiospasm
+Sår i magsäcken
+Ulcus ventriculi
+Sår i tolvfingertarmen
+Ulcus duodeni
+Dyspepsi
+Alkoholgastrit
+Gastrit
+Non ulcus-dyspepsi
+Gastroduodenal sjukdom
+Divertikel i magsäck
+Gastroduodenalt sår
+Peptiskt sår
+Pylorussjukdom
+Ulcus pepticum
+Akut blindtarmsinflammation
+Appendicit
+Appendicitis acuta
+Ljumskbråck
+Femoralbråck
+Hernia inguinalis
+Pungbråck
+Navelbråck
+Hernia umbilicalis
+Diafragmabråck
+Hernia diaphragmatica
+Hiatusbråck
+Bukbråck
+Främre bukväggsbråck
+Ärrbråck
+Crohns sjukdom
+Morbus Crohn
+Regional enterit
+Ulcerös kolit
+Colitis ulcerosa
+Ulcerös proktit
+Icke infektiös mag-tarmsjukdom
+Allergisk och kostbetingad diarré
+Gastroenterit
+Icke infektiös diarré
+Icke infektiös inflammation i mag-tarmkanal
+Kolit
+Kronisk appendicit
+Peritoneumsjukdom
+Kärlsjukdom i tarm
+Ischemisk enterit
+Fekalom
+Ileus
+Invagination
+Paralytisk ileus
+Tarmvred
+Divertikulit
+Divertiklar med peritonitretning
+Divertikulos
+Divertikelsjukdom
+Divertiklar i tarmen
+Fickbildning i tarm
+Colon irritabile
+Funktionell tarmsjukdom
+Irritabel tarm
+Irritable bowel syndrom [IBS]
+Tarmkatarr
+Obstipation
+Förstoppning
+Funktionell diarré
+Analspasm
+Proctalgia fugax
+Analfissur
+Analabscess
+Anorektal abscess
+Perianal abscess
+Perianal fistel
+Ändtarmsabscess
+Ändtarmsfistel
+Rektalsjukdom
+Blödning i anus
+Polyp i ändtarm
+Proktit
+Prolaps i ändtarm
+Rektalblödning
+Rektalpolyp
+Rektalprolaps
+Strålningsproktit
+Ändtarmssjukdom
+Hemorrojder och perianal venös trombos
+Inre hemorrojder
+Kvarvarande hemorrojdhudflikar
+Yttre hemorrojder
+Bukhinneinflammation
+Akut peritonit
+Peritonit
+Alkoholleversjukdom
+Alkoholcirros
+Alkoholfettlever
+Alkoholhepatit
+Alkoholleversvikt
+Levercirros utlöst av alkohol
+Toxisk leversjukdom
+Kronisk leversvikt
+Leversvikt
+Kronisk leversjukdom
+Hepatit
+Kronisk leverinflammation
+Kronisk staslever
+Levercirros
+Skrumplever
+Gallsten
+Cholelithiasis
+Gallstenssjukdom
+Gallblåseinflammation
+Kolecystit
+Gallvägssjukdom
+Gallblåsesjukdom
+Icke fungerande gallblåsa
+Kolangit
+Sjukdom i gallblåsa och gallvägar, ospecificerad
+Akut pankreatit
+Akut bukspottkörtelinflammation
+Kronisk bukspottkörtelinflammation
+Alkoholpankreatit
+Kronisk pankreatit
+Kronisk pankreatit orsakad av alkohol
+Celiaki
+Glutenenteropati
+Intestinal malabsorption
+Bristfälligt näringsupptag från tarm
+Malabsorption
+Tropisk sprue
+Dumpingsyndrom
+Postgastrektomisyndrom
+Sjukdom efter kirurgiskt ingrepp på magsäck
+Hematemes
+Blodkräkning
+Melena
+Svart avföring
+Gastrointestinal sjukdom
+Intestinal blödning
+Magsäcksblödning
+Postoperativ malabsorption
+Sjukdom i gastrointestinalkanalen
+Sjukdom i matsmältningsorgan
+Pemphigus neonatorum
+Impetigo
+Svinkoppor
+Abscess
+Böld
+Furunkel
+Karbunkel
+Paronyki
+Nagelbandsinfektion
+Panaritium
+Lymfadenit
+Akut lymfkörtelinflammation
+Pilonidalcysta
+Sakraldermoid
+Hudinfektion
+Bakteriell hudinfektion
+Cellulit
+Ektyma
+Erytrasma
+Lymfangit, akut
+Pyodermi
+Dermatitis herpetiformis
+Bullös dermatit
+Blåsdermatit
+Blåsdermatos
+Atopisk dermatit
+Atopiskt eksem
+Böjveckseksem
+Seborroisk dermatit
+Mjälleksem
+Seborroiskt eksem
+Blöjdermatit
+Blöjeksem
+Nickeleksem
+Allergisk kontaktdermatit av metaller
+Traumiterativt eksem
+Husmorseksem
+Icke allergiskt kontakteksem
+Irritativ kontaktdermatit
+Nötningseksem
+Kontaktdermatit
+Kontakteksem
+Läkemedelsexantem
+Läkemedelsutslag
+Födoämnesexantem
+Matutslag
+Neurodermit
+Lichen simplex
+Pruritus
+Anal klåda
+Anogenital klåda
+Klåda
+Prurigo nodularis
+Strofulus
+Nummulär dermatit
+Nummulärt eksem
+Id-reaktion
+Kutan autosensibilisering
+Infekterat eksem
+Infektiös dermatit
+Intertrigo
+Intertriginöst eksem
+Dermatit
+Eksem
+Pustulosis palmoplantaris
+PPP
+Psoriasis
+Parapsoriasis
+Pityriasis rosea
+Fjällros
+Lichen planus
+Lichen
+Lichen ruber
+Urtikaria
+Nässelfeber
+Nässelutslag
+Erythema multiforme
+Stevens-Johnsons syndrom
+Erythema nodosum
+Knölros
+Erytem
+Hudrodnad
+Toxiskt erytem
+Ljusdermatit
+Solbränna
+Soleksem
+Solsveda
+Aktinisk keratos
+Strålningsdermatit
+Nageltrång
+Nagelsjukdom
+Alopecia areata
+Fläckformigt håravfall
+Alopeci
+Androgent håravfall
+Håravfall
+Ärrbildande håravfall
+Hypertrikos
+Hirsutism
+Akne
+Finnar
+Perioral dermatit
+Rosacea
+Rhinophyma
+Aterom
+Follikulär cysta i hud och underhud
+Talgcysta
+Hidradenit
+Follikulit
+Follikulär sjukdom
+Hidroadenit
+Skäggsvamp
+Sycosis barbae
+Svettkörtelsjukdom
+Milaria
+Värmeplitor
+Vitiligo
+Tatuering
+Pigmentrubbning
+Café au lait-fläck
+Fräknar
+Lentigo
+Seborroisk keratos
+Seborroisk vårta
+Verruca seborrhoica
+Hudförhårdnad
+Kallositet
+Klavus
+Liktorn
+Hudhorn
+Epidermal förtjockning
+Trycksår
+Dekubitalsår
+Liggsår
+Ulcus decubitale
+Atrofisk hudsjukdom
+Atrofiskt ärr
+Lichen sclerosus et atrophicus
+Keloidärr
+Hypertrofisk hudsjukdom
+Hypertrofiskt ärr
+Keloid
+Främmandekroppsgranulom
+Granuloma annulare
+Granulomatös sjukdom i hud och underhud
+Kutan lupus erythematosus
+Lokaliserad bindvävssjukdom
+Vaskulit i huden
+Bensår
+Pyogent granulom
+Granuloma telangiectaticum
+Dermatitis factitia
+Artefakter
+Factitiadermatit
+Neurotiska exkoriationer
+Kroniskt hudsår
+Hudsjukdom, ospecificerad
+Reumatoid artrit
+Juvenil reumatoid artrit
+Seronegativ reumatoid artrit
+Seropositiv reumatoid artrit
+Gikt
+Arthritis urica
+Idiopatisk gikt
+Podagra
+Sekundär gikt
+Kristallsynovit
+Familjär kondrokalcinos
+Kristallartropati
+Pyrofosfatartrit
+Artrit
+Inflammatorisk artropati
+Ledinflammation
+Monoartrit
+Palindrom reumatism
+Polyartrit
+Purulent artrit
+Reaktiv artrit
+Reiters sjukdom
+Heberdens knutor
+Bouchards knutor
+Generaliserad artros
+Erosiv osteoartros
+Polyartros
+Posttraumatisk polyartros
+Höftledsartros
+Koxartros
+Posttraumatisk koxartros
+Knäartros
+Gonartros
+Posttraumatisk gonartros
+Artros i första karpometakarpalleden
+Artros i tummen
+Posttraumatisk artros
+Tumledsartros
+Artros
+Hallux valgus
+Recidiverande patellarluxation
+Habituell patellarluxation
+Chondromalacia patellae
+Femuropatellärt syndrom
+Patellalgi
+Menisksjukdom
+Meniskdegeneration
+Meniskskada
+Knäledssjukdom
+Fri kropp i knäled
+Instabil knäled
+Korsbandsskada
+Slapphet i knäligament
+Ligamentslapphet
+Gammal ligamentskada
+Ledkontraktur
+Ledutgjutning
+Hemartros
+Hydrops
+Ledvärk
+Artralgi
+Ledstelhet
+Ledsjukdom
+Recidiverande axelluxation
+Recidiverande ledluxation
+Jättecellsarterit
+Temporalisarterit
+Sjögrens syndrom
+Keratokonjunctivitis sicca
+Polymyalgia reumatica
+PMR
+Kollagenos
+Dermatopolymyosit
+Kollagen sjukdom
+Nekrotiserande vaskulopati
+Polyarteritis nodosa
+SLE
+Sklerodermi
+Systemisk autoimmun sjukdom
+Systemisk lupus erythematosus
+Juvenil skolios
+Juvenil kyfoskolios
+Ungdomsskolios
+Morbus Scheuermann
+Spondylolistes
+Tortikollis
+Nackspärr
+Pelvospondylit
+Bechterews sjukdom
+Sakroileit
+Spondylos
+Artros i ryggraden
+Cervikalt diskbråck
+Diskbråck i halsrygg
+Diskbråck
+Lumbalt diskbråck
+Torakalt diskbråck
+Cervikokranialt syndrom
+Nackhuvudvärk
+Cervikobrakialt syndrom
+Koccygodyni
+Svanskotsmärta
+Ryggsjukdom
+Kotkompression
+Kyfos
+Kyfoskolios
+Lordos
+Neuromuskulär skolios
+Osteokondros
+Osteomyelit i kota
+Ryggradskrökning
+Spinal stenos
+Spondylolys
+Cervikalgi
+Halsryggsmärta
+Ischias
+Lumbago-ischias
+Lumbago
+Ryggskott
+Torakal ryggsmärta
+Ryggvärk
+Dorsalgi
+Ont i ryggen
+Radikulit
+Radikulopati
+Trigger finger
+Nodulär sensjukdom i finger
+de Quervains sjukdom
+Quervains sjukdom
+Radial handledstenosynovit
+Tenosynovit
+Infektiös synovit
+Infektiös tenosynovit
+Senskideabscess
+Synovit
+Spontan senruptur
+Ruptur av synovia
+Ganglion
+Senknuta
+Krepiterande handledssynovit
+Peritendinitis crepitans
+Olekranonbursit
+Armbågsbursit
+Prepatellarbursit
+Skurgumsknä
+Trokanterit
+Trokanterbursit
+Trokantertendinit
+Varig bursit
+Abscess i bursa
+Bakercysta
+Dupuytrens kontraktur
+Palmar fascial fibromatos
+Plantar fasciit
+Frusen skuldra
+Frozen shoulder
+Periarthritis humeroscapularis
+Periartrit i skulderleden
+Supraspinatussyndrom
+Supraspinatustendinit
+Bicepstendinit
+Kalkaxel
+Peritendinitis calcarea
+Impingementsyndrom i skulderled
+Skulderbursit
+Axelledsbursit
+Subakromialbursit
+Subdeltoideusbursit
+Skulderledssjukdom
+Akillestendinit
+Akillesbursit
+Hälseneinflammation
+Epikondylit
+Golfarmbåge
+Lateral epikondylit
+Medial epikondylit
+Tennisarm
+Tennisarmbåge
+Entesopati
+Hälsporre
+Kalkaneussporre
+Kapsulit
+Ligamentsjukdom
+Metatarsalgi
+Periartrit
+Psoastendinit
+Tendinit
+Tibialis anterior-syndrom
+Mjukdelsreumatism
+Fibromyalgi
+Fibrosit
+Kroniskt idiopatiskt smärtsyndrom
+Myofasciellt smärtsyndrom
+Myalgi
+Muskelvärk
+Mjukvävnadssjukdom
+Bursit UNS
+Muskelinflammation
+Myosit
+Pannikulit
+Osteoporos med fraktur
+Benskörhet med fraktur
+Kilkota p g a osteoporos
+Kotkompression p g a osteoporos
+Osteoporos
+Benskörhet
+Pseudartros
+Fördröjd frakturläkning
+Utebliven frakturläkning
+Stressfraktur
+Patologisk fraktur
+Patologisk fraktur UNS
+Osteomyelit
+Benröta
+Ben-brosksjukdom
+Apofysit
+Aseptisk osteonekros
+Bencysta
+Epifysit
+Hyperostos
+Osteomalaci hos vuxen
+Pagets sjukdom
+Reflexdystrofi i arm
+Skulder-handsyndrom
+Coxa plana
+Juvenil osteokondros i femurhuvudet
+Legg-Calvé-Perthes sjukdom
+Perthes sjukdom
+Schlatters sjukdom
+Osgood-Schlatters sjukdom
+Juvenil osteokondros
+Ben-broskdegeneration hos unga
+Blounts sjukdom
+Kienböcks sjukdom
+Köhlers sjukdom
+Osteochondritis dissecans
+Tietzes syndrom
+Förvärvad deformitet
+Benlängdsskillnad
+Blomkålsöra
+Boutonnière-deformitet
+Förvärvad extremitetsdeformitet
+Hallux rigidus
+Hallux varus
+Knapphålsdeformitet
+Pes planus
+Plattfot
+Svanhalsdeformitet
+Muskuloskeletal sjukdom efter ingrepp
+Biomekanisk skada
+Muskuloskeletal sjukdom efter skada
+Nefrotiskt syndrom
+Glomerulonefrit
+Pyelonefrit
+Njurbäckeninflammation
+Hydronefros
+Urinvägsreflux
+Njursvikt
+Akut njursvikt
+Kronisk njursvikt
+Njurinsufficiens
+Uremi
+Njursten
+Nefrolithiasis
+Ureterolithiasis
+Uretärsten
+Blåssten
+Cystolithiasis
+Njurkolik
+Nefropati
+Förvärvad njurcysta
+Njursjukdom
+Cystit
+Akut cystit
+Blåskatarr
+UVI
+Urinvägsinfektion
+Sjukdom i urinblåsan
+Neuromuskulär blåsfunktionsrubbning
+Uretrit
+Uretrasyndrom
+Urinrörskatarr
+Uretrastriktur
+Urinrörsförträngning
+Uretrasjukdom
+Uretrakarunkel
+Urininkontinens
+Ansträngningsinkontinens
+Blandinkontinens
+Reflexinkontinens
+Stressinkontinens
+Trängningsinkontinens
+Urge inkontinens
+Överfyllnadsinkontinens
+Urinvägssjukdom
+Prostatahyperplasi
+Prostataförstoring
+Prostatahypertrofi
+Prostatit
+Akut prostatit
+Kronisk prostatit
+Prostatasjukdom
+Prostatism
+Hydrocele
+Vattenbråck
+Spermatocele
+Testistorsion
+Epididymit
+Bitestikelinflammation
+Orkit
+Testikelinflammation
+Infertilitet hos man
+Fimosis
+Parafimosis
+Trång förhud
+Balanit
+Förhudsinflammation
+Priapism
+Impotens
+Sjukdom i manliga genitalia
+Mammarcysta
+Cysta i bröstkörtel
+Fibroadenomatos
+Fibroadenos
+Mastopathia cystica
+Mastopati
+Mastit
+Bröstkörtelinflammation
+Mammarhypertrofi
+Gynekomasti
+Knuta i bröstkörtel
+Resistens i bröstkörtel
+Sjukdom i bröstkörtel
+Salpingit
+Ooforit
+Äggledarinflammation
+Äggstocksinflammation
+Endometrit
+Inflammation i livmodern
+Livmoderinflammation
+Cervicit
+Inflammation i livmoderhalsen
+Livmoderhalsinflammation
+Pelvic inflammatory disease [PID]
+Inflammatorisk sjukdom i det kvinnliga bäckenet
+Bartholinit
+Vulvovaginit
+Slidkatarr
+Endometrios
+Cystocele
+Prolaps av främre vaginalvägg
+Rektocele
+Prolaps av bakre vaginalvägg
+Uterovaginal prolaps
+Framfall
+Livmoderframfall
+Fistel i kvinnliga genitalia
+Ovarialcysta
+Cervixpolyp
+Erytroplaki
+Portioektropi
+Portioerosion
+Cervixdysplasi
+Sjukdom i kvinnliga genitalia
+Kraurosis vulvae
+Primär amenorré
+Sekundär amenorré
+Oligomenorré
+Hypomenorré
+Menometrorragi
+Menorragi
+Metrorragi
+Polymenorré
+Postkoital blödning
+Genombrottsblödning
+Kontaktblödning
+Ovulationssmärta
+Mittelschmertz
+Ägglossningssmärta
+Dyspareuni
+Smärta vid samlag
+Vaginism
+Premenstruellt spänningssyndrom
+PMS
+Dysmenorré
+Smärtsam menstruation
+Postmenopausal blödning
+Atrofisk vaginit
+Klimakteriebesvär
+Infertilitet hos kvinna
+Komplikation efter ingrepp i urin- och könsorgan
+Extrauteringraviditet
+Utomkvedshavandeskap
+Mola
+Druvbörd
+Spontanabort
+Missfall
+Inducerad abort
+Legal abort
+Graviditetsödem
+Proteinuri under graviditet
+Preeklampsi
+Graviditetstoxikos
+Eklampsi
+Graviditetskramper
+Graviditetshypertoni
+Tidigare konstaterad hypertoni
+Tidig graviditetsblödning
+Hotande missfall
+Hyperemesis gravidarum
+Ihållande graviditetskräkning
+Graviditetsdiabetes
+Symfyseolys
+Foglossning
+Graviditetskomplikation
+Flerbördsgraviditet
+Komplicerande fosterläge
+Bäckenträngsel
+Förlossningshinder
+Problem hos fostret
+Placenta praevia
+Föreliggande moderkaka
+Ablatio placentae
+För tidig avlossning av moderkakan
+Placentaavlossning
+Hotande förtidsbörd
+Förvärkar
+Överburenhet
+Förlossningskomplikation
+Okomplicerad förlossning
+Normal förlossning
+Puerperal infektion
+Infektion under barnsängstiden
+Puerperal komplikation
+Mjölkstockning
+Bröstböld
+Puerperal mastit
+Amningsproblem
+Laktationsrubbning
+Obstetrisk komplikation
+Perinatalt problem sekundärt till maternell faktor
+Intrauterin tillväxthämning
+Prematuritet
+Postmaturitet
+Plexus brachialis-skada
+Förlossningsskada
+Perinatal andningsrubbning
+Perinatal cirkulationsrubbning
+Neonatal navelinfektion
+Neonatal konjunktivit
+Perinatal infektion
+Perinatal blödning
+Perinatal hemolytisk sjukdom
+Rh-immunisering
+Gulsot hos nyfödd, fysiologisk
+Kärnikterus
+Perinatal ikterus
+Uppfödningsproblem hos nyfödd
+Perinatal sjukdom
+Medfödd hydrocefalus
+Medfödd vattenskalle
+Spina bifida
+Meningocele
+Myelomeningocele
+Ryggmärgsbråck
+Missbildning i nervsystemet
+Missbildning av öga
+Missbildning av öra
+Missbildning av ansikte och hals
+Halscysta
+Hjärtmissbildning
+Medfödd hjärtsjukdom
+Kärlmissbildning
+Missbildning av cirkulationsorgan
+Laryngomalaci
+Larynxstridor
+Missbildning av andningsorgan
+Gomspalt
+Läppspalt
+Läpp-gomspalt
+Tungband
+Medfödd pylorusstenos
+Medfödd pylorostenos
+Pylorospasm
+Pylorusspasm
+Meckels divertikel
+Medfödd megakolon
+Hirschsprungs sjukdom
+Missbildning av matsmältningsorgan
+Retentio testis
+Icke nedstigen testikel
+Kryptorkidism
+Kryptorkism
+Hypospadi
+Missbildning av könsorgan
+Genital missbildning
+Cystnjuresjukdom
+Njurcysta
+Missbildning av urinorgan
+Höftmissbildning
+Preluxation av höftleden
+Fotmissbildning
+Extremitetsmissbildning
+Missbildning av muskler och skelett
+Muskuloskeletal missbildning
+Medfödd iktyos
+Fiskfjällssjuka
+Ichtyosis congenita
+Kongenital iktyos
+Urticaria pigmentosa
+Mastocytos
+Medfött hemangiom
+Födelsemärke
+Nevus flammeus
+Smultronmärke
+Storkbett
+Hudmissbildning
+Medfödd hudmissbildning
+Missbildning av bröstkörtel
+Medfödd missbildning av bröstkörtel
+Neurofibromatos
+von Recklinghausens sjukdom
+Fetalt alkoholsyndrom
+Alkoholfetopati
+Situs inversus
+Missbildning
+Medfödd deformitet
+Downs syndrom
+Turners syndrom
+Klinefelters syndrom
+Kromosomrubbning
+Takykardi
+Snabb hjärtrytm
+Bradykardi
+Långsam hjärtrytm
+Hjärtklappning
+Palpitationer
+Störande upplevelse av hjärtslag
+Onormal hjärtrytm
+Onormala hjärtslag
+Benignt hjärtbiljud
+Avvikande hjärtauskultationsfynd
+Dova hjärttoner
+Funktionellt hjärtblåsljud
+Prekordiellt gnidningsljud
+Gangrän
+Uppmätt förhöjt blodtryck
+Förhöjt blodtryck tillfälligt
+Högt blodtryck som tillfälligt undersökningsfynd
+Uppmätt lågt blodtryck
+Lågt blodtryck tillfälligt
+Näsblödning
+Epistaxis
+Hemoptys
+Blodblandad upphostning
+Blodhosta
+Blödning från luftvägar
+Hosta
+Tussis
+Dyspné
+Andfåddhet
+Andnöd
+Ytlig andning
+Snarkning
+Munandning
+Hicka
+Singultus
+Andningsrubbning
+Affektapné hos barn
+Apné
+Kvävningskänsla
+Bröstsmärta
+Bröstsmärta vid andning
+Pleurasmärta
+Prekordial smärta
+Strupsmärta
+Specifika symtom från respirationsorgan
+Andningsstillestånd
+Asfyxi
+Onormal upphostning
+Akut buk
+Akut buksmärta
+Svår buksmärta
+Smärta i övre delen av buken
+Epigastralgi
+Smärta i epigastriet
+Smärta i nedre delen av buken
+Buksmärta
+Magknip
+Ömhet i buken
+Spädbarnskolik
+Tremånaderskolik
+Illamående
+Nausea
+Kräkningar
+Vomitus
+Halsbränna
+Pyrosis
+Sväljningssvårigheter
+Dysfagi
+Flatulens
+Gasspänning i buk
+Väderspänning
+Fecesinkontinens
+Avföringsinkontinens
+Enkopres UNS
+Lever- och mjältförstoring
+Hepatomegali
+Hepatosplenomegali
+Leverförstoring
+Mjältförstoring
+Splenomegali
+Gulsot
+Ikterus
+Ascites
+Vätska i bukhålan
+Resistens i buk
+Abdominell resistens
+Knöl i buk
+Svullnad i buk
+Ändrade avföringsvanor
+Dålig andedräkt
+Foetor ex ore
+Halitos
+Specifika matsmältningsorganssymtom
+Défense
+Onormala tarmljud
+Känselstörning i hud
+Bränningar
+Domningar
+Dysestesi
+Myrkrypningar
+Parestesi
+Sensibilitetsrubbning
+Hudutslag
+Exantem
+Resistens i huden
+Knöl i huden
+Resistens i hud och underhudsvävnad
+Svullnad i huden
+Cyanos
+Petekier
+Ekkymoser
+Spontana punktformiga blödningar
+Fjällande hud
+Deskvamation av hud
+Indurerad hud
+Hudförändring
+Tremor
+Muskeldarrningar
+Kramp
+Muskelkramp
+Vadkramp
+Ofrivilliga rörelser
+Fascikulationer
+Ryckningar
+Gångrubbning
+Ataktisk gång
+Paralytisk gång
+Spastisk gång
+Reflexrubbning
+Neuromuskuloskeletalt symtom
+Knäppande höft
+Muskuloskeletalt symtom
+Neurologiskt symtom
+Onormal kroppshållning
+Smärta vid vattenkastning
+Smärtsam miktion
+Tenesmer i urinblåsa
+Hematuri
+Blod i urin
+Urininkontinens, ospecificerad
+Enures UNS
+Urinretention
+Urinstämma
+Polyuri
+Nykturi
+Pollakisuri
+Täta urinträngningar
+Täta urintömningar
+Flytning från uretra
+Fluor urethrae
+Flytning från penis
+Miktionssvårigheter
+Svag urinstråle
+Vattenkastningsbesvär
+Anuri
+Ingen eller liten urinmängd
+Oliguri
+Prerenal uremi
+Medvetandesänkning
+Koma ospecificerat
+Medvetslöshet
+Somnolens
+Stupor
+Sänkt vakenhetsgrad
+Desorientering
+Konfusion
+Amnesi
+Minnessvårigheter
+Yrsel
+Vertigo
+Perceptionsrubbning
+Anosmi
+Hallucinationer ospecificerade
+Lukt- och smakrubbning
+Symtom avseende känsloläge
+Dysfori
+Hyperaktivitet
+Nervositet
+Symtom avseende uppträdande
+Talsvårighet
+Afasi
+Dysartri
+Dysfasi
+Läs- och skrivsvårigheter
+Apraxi
+Dyslexi
+Symboldysfunktion
+Heshet
+Dysfoni
+Röststörning
+Afoni
+Förändring av rösten
+Oklar feber
+Febris causae ignotae
+Pyrexi
+Huvudvärk
+Ansiktssmärta
+Generaliserad smärta
+Kronisk behandlingsresistent smärta
+Trötthet
+Allmän fysisk konditionsnedsättning
+Asteni
+Ålderssvaghet
+Senilitet
+Svimning
+Blackout
+Synkope
+Feberkramp
+Krampanfall
+Chock, ospecificerad
+Cirkulatorisk chock
+Endotoxinchock
+Hypovolemisk chock
+Kardiogen chock
+Sviktande perifer cirkulation
+Blödning
+Lymfkörtelförstoring
+Svullna körtlar
+Ödem
+Vätskeretention
+Överdriven svettning
+Handsvett
+Hyperhidros
+Nattsvett
+Tillväxtrubbning
+Failure to thrive
+Sen att gå
+Sen att tala
+Utebliven förväntad kroppslig utveckling
+Utebliven viktökning
+Anorexi
+Aptitlöshet
+Symtom relaterade till födo- och vätskeintag
+Bristfälliga matvanor
+Intorkning
+Polydipsi och polyfagi
+Sjukligt stegrad hunger eller törst
+Ätproblem
+Kakexi
+Utmärgling
+Muntorrhet
+Okänd orsak till sjuklighet
+Irritabelt spädbarn
+Klubbfingrar
+Sjukdom utan diagnos icke specificerad till lokalisation eller organsystem
+Skrikigt spädbarn
+Urglasnaglar
+SR-utredning
+Förhöjd sänka
+Hyperglykemi
+Latent diabetes
+Nedsatt glukostolerans
+Onormal glukostoleranstest
+Onormal blodkemi
+Onormalt kemiskt fynd i blod
+Onormalt levervärde
+Onormalt urinfynd
+Onormalt provfynd
+Onormala fynd i prov från de kvinnliga könsorganen
+Onormalt cervixutstryk
+Onormalt radiologiskt fynd
+Avvikande röntgenfynd
+Onormalt funktionsundersökningsresultat
+Onormalt EKG
+Onormalt njurfunktionstest
+Dödsfall med okänd orsak
+Funnen död
+Mors subita
+Plötslig spädbarnsdöd
+Kraniefraktur
+Näsbensfraktur
+Skallbasfraktur
+Skallfraktur
+Tandfraktur
+Underkäksfraktur
+Överkäksfraktur
+Ögonskada
+Avskrapning på kornea
+Penetrerande sår i ögongloben
+Skada på konjunktiva
+Traumatisk enukleation
+Hjärnskakning
+Commotio cerebri
+Traumatisk trumhinneruptur
+Traumatisk trumhinneperforation
+Halskotfraktur
+Fraktur på halskotpelaren
+Distorsion i halskotpelaren
+Whiplash-skada
+Bröstkotsfraktur
+Fraktur på bröstkotpelaren
+Multipla frakturer på bröstkotpelaren
+Sternumfraktur
+Bröstbensfraktur
+Revbensfraktur
+Ländkotsfraktur
+Fraktur på ländkotpelaren
+Bäckenfraktur
+Acetabulumfraktur
+Koccyxfraktur
+Multipla frakturer på ländkotpelaren och bäckenet
+Sakrumfraktur
+Nyckelbensfraktur
+Klavikelfraktur
+Proximal humerusfraktur
+Fraktur på collum anatomicum
+Fraktur på collum chirurgicum
+Fraktur på tuberositas major
+Fraktur på skuldergördel
+Fraktur på humerusskaftet
+Fraktur på skuldra
+Luxation i skulderled
+Axelledsluxation
+Axelluxation
+Glenohumeralledsluxation
+Muskulär skada kring skuldra
+Distal radiusfraktur
+Colles fraktur
+Smiths fraktur
+Luxation av radiushuvudet
+Pigluxation
+Skafoideumfraktur i hand
+Metakarpalbensfraktur
+Mellanhandsfraktur
+Fraktur på finger
+Fingerledsluxation
+Handledsdistorsion
+Distorsion i interkarpalled
+Distorsion i radiokarpalled
+Distorsion i finger
+Distorsion i metakarpofalangealled
+Distorsion i tumme
+Lårbenshalsfraktur
+Kollumfraktur
+Höftfraktur
+Lårbensfraktur
+Femurfraktur
+Patellarfraktur
+Knäskålsfraktur
+Underbensfraktur
+Tibiafraktur
+Malleolarfraktur
+Fotledsfraktur
+Meniskruptur
+Lateral meniskruptur
+Medial meniskruptur
+Knädistorsion
+Distorsion av knäligament
+Luxation av patella
+Luxation i knäled
+Ruptur av knäligament
+Hälseneskada
+Skada på akillessena
+Metatarsalbensfraktur
+Mellansfotsfraktur
+Tåfraktur
+Fotfraktur
+Fotledsdistorsion
+Fotledsluxation
+Stukning av fotled
+Skrubbsår
+Blåmärke
+Insektsbett
+Kontusion
+Ytlig skada
+Sårskada
+Djurbett
+Klämskada
+Fraktur
+Distorsion
+Luxation
+Traumatisk amputation
+Trauma
+Främmande kropp i öga
+Främmande kropp i öra
+Främmande kropp i hörselgång
+Främmande kropp i andningsvägar
+Asfyxi orsakad av främmande kropp
+Inhalation av uppkräkt maginnehåll
+Inhalation av vätska
+Främmande kropp i matsmältningsorgan
+Främmande kropp i urinorgan/könsorgan
+Brännskada
+Frätskada
+Kemisk frätskada
+Köldskada
+Multipla köldskador
+Läkemedelsförgiftning
+Felaktig substans given eller intagen av misstag
+Felmedicinering
+Överdosering av läkemedel
+Förgiftning
+Kvävning
+Kvävning (genom strypning)
+Systemisk syrebrist
+Misshandelssyndrom
+Barnmisshandel
+Effekt av försummelse och vanvård
+Fysisk misshandel
+Kvinnomisshandel
+Psykisk misshandel
+Sexuellt övergrepp
+Drunkningstillbud
+Drunkning
+Simmarkramp
+Vibrationsskada
+Effekter av vibration
+Pneumatic hammer syndrome
+Traumatiskt vasospastiskt syndrom
+Yrsel orsakad av infraljud
+Rörelsesjuka
+Luftsjuka
+Sjösjuka
+Åksjuka
+Anafylaxi
+Allergisk chock
+Anafylaktisk chock
+Angioneurotiskt ödem
+Quinckeödem
+Allergi
+Allergisk reaktion
+Idiosynkrasi
+Överkänslighet
+Ogynnsam effekt
+Andra ogynnsamma reaktioner på födoämne som ej klassificeras annorstädes
+Effekt av yttre orsak
+Strålningssjuka
+Värmesynkope
+Tidig komplikation till trauma
+Fettemboli
+Kompartmentsyndrom
+Luftemboli
+Traumatisk chock
+Traumatisk ischemi i muskel
+Traumatiskt subkutant emfysem
+Volkmanns ischemiska kontraktur
+Komplikation efter injektion
+Komplikation efter infusion
+Komplikation efter perfusion
+Komplikation efter tranfusion
+Komplikation av inre proteser
+Komplikation av implantat
+Komplikation av transplantat
+Komplikation till kirurgisk åtgärd och medicinsk vård
+Komplikation till kirurgisk åtgärd
+Komplikation till medicinsk vård
+Komplikationer specifika för replantation (återfastsättning) och amputation
+Sena besvär av skada
+Sena besvär till skador klassificerade S02.- -- T88.-P
+Läkemedel eller drog i terapeutiskt bruk som orsak till ogynnsam effekt
+Allmän medicinsk undersökning
+Hälsokontroll
+Hälsoundersökning
+Hälsoövervakning av barn
+Undersökning av barns utveckling
+Gynekologisk hälsokontroll
+Cellprov
+Cervixutstryk
+Speciell rutinundersökning
+Mammografi
+Undersökning för intyg
+Anställningsundersökning
+Undersökning för försäkring
+Undersökning för körkort
+Utfärdande av dödsbevis
+Utfärdande av friskintyg
+Utfärdande av invaliditetsintyg
+Medicinsk bedömning för misstänkt sjukdom
+Observation för misstänkt sjukdom
+Undersökning av medikolegala skäl
+Medicinsk övervakning efter behandling
+Hälsokontroll av definierad befolkningsgrupp
+Hälsokontroll av institutionsboende
+Hälsokontroll av skolbarn
+Hälsokontroll avseende specificerad sjukdom
+Exponering för smittsam sjukdom
+Smittbärarskap
+Vaccination
+Ej genomförd vaccination
+Vaccination ej genomförd p g a kontraindikation
+Vaccination ej genomförd p g a patientens önskemål
+Profylaktisk åtgärd mot smittsam sjukdom
+Förebyggande immunterapi
+Immunglobulinbehandling
+Isolering
+Kemoprofylax
+Preventivmedelsrådgivning
+P-pillerförskrivning
+Råd om familjeplanering
+Övervakning av preventivläkemedel
+Intrauterint preventivmedel
+Borttagande av spiral
+Insättning av spiral
+Kontroll av spiral
+"Dagen-efter-piller"
+Födelsekontroll
+Fertilitetsfrämjande åtgärd
+Fertilitetsundersökning
+Genetisk rådgivning
+Graviditetsundersökning
+Graviditetstest
+Mödrahälsovård
+Graviditetsövervakning
+Prenatal undersökning
+Övervakning av riskgraviditet
+Palliativ vård
+Vårdåtgärd
+Kirurgisk vårdåtgärd
+Medicinsk vårdåtgärd
+Rehabilitering
+Socialmedicinska problem
+Arbetsmiljöproblem
+Psykosociala problem
+Relationsproblem
+Sex- och samlevnadsrådgivning
+Konsultation för annan
+Konsultation som berör annan än patienten
+Råd eller behandling för tredje part
+Oro för sjukdom
+Förklaring av undersökningsfynd
+Konsultation för "second opinion"
+Rådgivning, ospecificerad
+Medicinsk rådgivning
+Terapeutisk rådgivning
+Livsstilsproblem
+Livssituationsproblem
+Bristande coping
+Typ A-beteende
+Utbrändhet
+Beroende av vårdgivare
+Behov av kontinuerlig övervakning
+Hjälpbehov i hemmet
+Sängbunden
+Vård på fel vårdnivå
+Väntetid för vård
+Vård ej tillgänglig
+Receptförnyelse
+Förnyad förskrivning av glasögon
+Förnyad förskrivning av hjälpmedel
+Förnyad förskrivning av läkemedel
+Vårdkontakt, ospecificerad
+Beroende av njurdialys
+Beroende av respirator
+Beroende av tekniska hjälpmedel
+Kontakt med vården under icke specificerade förhållanden
+Tillstånd med pacemaker
+Tillstånd med stomi
+Tillstånd med transplantat
+Potentiell hälsorisk i familjeanamnes
+Väsentlig medicinsk behandling i sjukhistoria
+
+Feber
+febrig
+Yr
+yrsel
+Snurrig
+MDS
+blodsjukdom
+svårt att andas
+spottar blod
+magsår
+oro
+kallsvettas
+svullen
+Canser
